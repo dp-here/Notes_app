@@ -1,0 +1,72 @@
+
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Men's NCAA basketball tournament moves into the Sweet Sixteen this week",
+        "description": "The Sweet Sixteen is set for the men's NCAA college basketball tournament. CBS Sports analyst Chris Walker joined CBS News' Vladimir Duthiers and Anne-Marie Green to discuss what to watch as the tournament moves forward and Princeton's exciting run so far.",
+        "url": "https://www.cbsnews.com/video/mens-ncaa-tournament-moves-into-the-sweet-sixteen-this-week/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/20/9f44b482-9a7e-4bd6-b41f-6468d4846b10/thumbnail/1200x630/4163ca09b1f1c2b14b7215c29908bd71/cbsn-fusion-mens-ncaa-tournament-moves-into-the-sweet-sixteen-this-week-thumbnail-1810572-640x360.jpg",
+        "publishedAt": "2023-03-20T15:17:00+00:00",
+        "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+      },
+      {
+        "source": {
+          "id": "google-news-ca",
+          "name": "Google News (Canada)"
+        },
+        "author": "CBC.ca",
+        "title": "Employers who withhold workers' passports to face steeper fines under proposed Ontario law - CBC.ca",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNiYy5jYS9uZXdzL2NhbmFkYS90b3JvbnRvL21pZ3JhbnQtd29ya2Vycy1wYXNzcG9ydHMtb250YXJpby1sYXctMS42Nzg0NDQz0gEgaHR0cHM6Ly93d3cuY2JjLmNhL2FtcC8xLjY3ODQ0NDM?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-03-20T14:17:00+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "reddit-r-all",
+          "name": "Reddit /r/all"
+        },
+        "author": null,
+        "title": "r/formuladank - Proper Sportsmanship #KeepingUpWithTheVerstappens",
+        "description": "9,381 votes and 398 comments so far on Reddit",
+        "url": "https://www.reddit.com/r/formuladank/comments/11vtgfo/proper_sportsmanship_keepingupwiththeverstappens/",
+        "urlToImage": "https://preview.redd.it/4qg73c8v6soa1.jpg?auto=webp&v=enabled&s=3891a71cd3bc13ce70c4c19d017dbcbbb915b81f",
+        "publishedAt": "2023-03-19T22:37:25.6945787Z",
+        "content": "I started watching the race with a 15 min delay due to travel. As soon as I saw that shot I thought \"That will already be up on Formuladank\" and I was not disapointed :p."
+      },
+      {
+        "source": {
+          "id": "the-washington-times",
+          "name": "The Washington Times"
+        },
+        "author": "The Washington Times https://www.washingtontimes.com",
+        "title": "Latest Quizzes",
+        "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+        "url": "https://www.washingtontimes.com/quiz/",
+        "urlToImage": null,
+        "publishedAt": "2022-08-30T16:37:43.8583104Z",
+        "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+      },
+      {
+        "source": {
+          "id": "nrk",
+          "name": "NRK"
+        },
+        "author": "NRK",
+        "title": "De siste sportsnyhetene fra NRK",
+        "description": "Her får du de siste sportsnyhetene fra NRK.",
+        "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227#1.16345130.1.16345130",
+        "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+        "publishedAt": "2019-08-14T09:09:42Z",
+        "content": "19. mars2023kl.21:50Brann kjørte over Sandefjord og punkterte kampen før pause. Nå er de klare for semifinale i cupen. Bergenserne drømmer om sin første cuptittel på 19 år.\r\n Det var veldig gøy. Vi s… [+952 chars]"
+      }
+    ]
+  }

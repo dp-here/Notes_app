@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(228, 176, 120);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.newsclass{
+  width: 70%;
+  height: 50%;
+  
+}
+.rowClass{
+  object-fit: fit;
+  
+}
+.navbar-brand{
+  padding-left: 20px;
+}
+.navbar-collapse.in {
+  display: block !important;
+}
+
+i{
+  cursor: pointer;
+}
+  /* 
+@media screen and (max-width: 420px) {
+  .getstart{
+   padding-top:200px;
+  background-color: lightgreen;
+    height: 20px;
+    font-size: small;
+    size: 10px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .image{
+    margin-left:5px;
+    margin-top:5px;
+     margin-bottom:5px;
+  }
+  .btn{
+    margin-left:17px;
+    color: red;
+  }
+}
+@media screen and (min-width: 420px) {
+  .image{
+    margin-left:300px;
+    margin-top:5px;
+     margin-bottom:5px;
+  }
+  .btn{
+    margin-left:525px;
+    color: red;
+    border:2px solid black;
+    background-color: rgb(223, 243, 204);
+  }
+} */
